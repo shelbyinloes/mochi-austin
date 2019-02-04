@@ -1,4 +1,4 @@
-![Alt text](src/images/mochi.jpg?raw=true "Picture of Mochi")
+![Alt text](src/images/mochi2.jpg?raw=true "Picture of Mochi")
 
 ###Description: 
     This is a purely front-end React app. This is not for a real restaurant or business, just a playground for me to work on front-end design!
