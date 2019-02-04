@@ -7,6 +7,7 @@ import mochi4 from '../images/mochi4.jpg';
 import mochi5 from '../images/mochi5.jpg';
 import mochi6 from '../images/mochi6.jpg';
 
+// still need to add text over images
 
 const MochiCarousel = () => (
   <Container id="carousel" fluid>

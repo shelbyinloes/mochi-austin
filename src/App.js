@@ -3,6 +3,7 @@ import './App.css';
 import { Container, Row, Col } from 'react-bootstrap';
 import Header from './components/Header.js';
 import MochiCarousel from './components/MochiCarousel.js';
+import Footer from './components/Footer.js';
 
 class App extends Component {
   render() {
@@ -14,6 +15,9 @@ class App extends Component {
           </Col>
           <Col sm={12}>
             <MochiCarousel />
+          </Col>
+          <Col sm={12}>
+            <Footer />
           </Col>
         </Row>
       </Container>

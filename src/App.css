@@ -53,13 +53,28 @@ div.col-xs-1,div.col-xs-10,div.col-xs-11,div.col-xs-12,div.col-xs-2,div.col-xs-3
     font-family: 'Merriweather', serif;
   }
 
-  #carousel {
-    background-color: pink;
-    height: 300px;
-    
-  }
-
   .mochiImg {
     height: 600px;
     overflow: hidden;
   }
+
+  #footer {
+    background-color: #F5FC9E;
+    height: 230px
+  }
+
+  #footerImg {
+    height: 120px;
+    margin: 55px 30px;
+  }
+
+  #footerNav {
+    display: flex;
+    flex-direction: column;
+    color: #FD9191;
+    /* align-items: center; */
+    font-size: 12px;
+    margin: 0 auto;
+    padding: 50px;
+  }
+
