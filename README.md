@@ -7,10 +7,10 @@
     I wanted to work on design skills, and this is loosely based off of a local restaurant here in Austin called Poke Austin ('https://www.poke-austin.com/'). Why not combine my two favorite foods?  
 
 ###Goals: 
-    I would like to make this even more visually exciting as well as increase the quality content. The more I continue to build, the better the portfolio will get! 
+    I would like to have a fully functional restaurant site that could serve as a boiler plate for future projects. It should be easily changed to other images, content, and themes.
 
 ###Deployment: 
     Site will be deployed when there is a MVP. (Est. end of February)
 
 ###Issues/Bugs:
-    Although I have some media-queries already in here, it does need some touch up on several of the components to make it more mobile friendly. 
+    None as of now.
