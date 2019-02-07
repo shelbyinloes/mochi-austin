@@ -11,14 +11,14 @@ const Footer = () => (
         <img src={verticalLogo} alt={"Mochi Austin Logo"} id="footerImg"/>
       </Col>
       <Col sm={3} id="footerAddress">
-        <bold>Austin, Texas</bold>
+        <span>Austin, Texas</span>
         <span>213 Ice Cream Ln</span>
         <span>Austin, TX 78701</span>
         <span>Get Directions</span>
         <span>(512) 555-1122</span>
       </Col>
       <Col sm={3} id="footerHours">
-        <bold>Hours:</bold>
+        <span>Hours:</span>
         <span>Monday - Thursday:</span>
         <span>11am - 9pm</span>
         <span>Friday - Sunday:</span>
@@ -26,7 +26,9 @@ const Footer = () => (
       </Col>
       <Col sm={3} id="footerSocial">
         <h1>Icons</h1>
-
+      </Col>
+      <Col sm={12} id="footerCopy">
+        Shelby Inloes, 2019 - Design based off of POKE AUSTIN website
       </Col>
     </Row>
   </Container>

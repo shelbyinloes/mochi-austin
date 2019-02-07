@@ -70,11 +70,20 @@ div.col-xs-1,div.col-xs-10,div.col-xs-11,div.col-xs-12,div.col-xs-2,div.col-xs-3
     margin: 5px 20px 5px 50px;
   }
 
-  #footerAddress {
+  #footerAddress, #footerSocial, #footerHours {
     display: flex;
     flex-direction: column;
     color: #FD9191;
-    font-size: 12px;
+    font-size: 14px;
     padding: 50px;
+    /* line-height: 30px; */
+  }
+
+  #footerCopy {
+    background-color: #FDDD8A;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
   }
 
