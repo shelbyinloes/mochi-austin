@@ -1,5 +1,5 @@
 import React from 'react';
-import verticalLogo from '../images/logos/verticallogo.png';
+import verticalLogo from '../images/logos/pink_logo.jpg';
 import mochiFacebook from '../images/mochiFacebook.png';
 import mochiInsta from '../images/mochiInsta.png';
 import mochiPinterest from '../images/mochiPinterest.png';
@@ -35,7 +35,7 @@ const Footer = () => (
         <img src={mochiTwitter} alt={"Twitter"} className="socialImg"/>
       </Col>
       <Col sm={12} id="footerCopy">
-        Shelby Inloes, 2019 - Design based off of POKE AUSTIN website
+        <h6>Shelby Inloes, 2019 - Design based off of POKE AUSTIN website (MOCHI AUSTIN is not a real restaurant)</h6>
       </Col>
     </Row>
   </Container>
