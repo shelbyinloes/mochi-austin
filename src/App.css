@@ -60,21 +60,21 @@ div.col-xs-1,div.col-xs-10,div.col-xs-11,div.col-xs-12,div.col-xs-2,div.col-xs-3
 
   #footer {
     background-color: #F5FC9E;
-    height: 230px
+    height: 230px;
+    margin: 0 auto;
+
   }
 
   #footerImg {
-    height: 120px;
-    margin: 55px 30px;
+    height: 220px;
+    margin: 5px 20px 5px 50px;
   }
 
-  #footerNav {
+  #footerAddress {
     display: flex;
     flex-direction: column;
     color: #FD9191;
-    /* align-items: center; */
     font-size: 12px;
-    margin: 0 auto;
     padding: 50px;
   }
 
