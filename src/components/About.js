@@ -4,14 +4,10 @@ import './../App.css'
 
 
 const About = () => (
-  <Container id="header" fluid>
+  <Container fluid>
     <Row>
-      <Col sm={6} id="headerNav">
-        <span>Home</span>
-        <span>Menu</span>
-        <span>About</span>
-        <span>Location</span>
-        <span>Contact</span>
+      <Col sm={6}>
+        <h2>We hereeee</h2>
       </Col>
     </Row>
   </Container>
