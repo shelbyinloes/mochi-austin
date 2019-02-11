@@ -12,7 +12,7 @@ const Drinks = () => (
       <Col sm={6} id="aboutMochi">
         <div>
           <Fade left>
-            <h2>But wait, there's more!</h2>
+            <h2>Thirsty?</h2>
                 <p>In addition to serving you the best quality mochi, we also 
                     have some of the best drinks in town too. We have a 
                     variety of traditional Japanese teas, bubble teas, 
