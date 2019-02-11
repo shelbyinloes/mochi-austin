@@ -6,6 +6,7 @@ import MochiCarousel from './components/MochiCarousel.js';
 import Footer from './components/Footer.js';
 import About from './components/About.js';
 import Ingredients from './components/Ingredients.js';
+import Drinks from './components/Drinks.js';
 
 
 class App extends Component {
@@ -24,6 +25,9 @@ class App extends Component {
           </Col>
           <Col sm={12}>
             <Ingredients/>
+          </Col>
+          <Col sm={12}>
+            <Drinks/>
           </Col>
           <Col sm={12}>
             <Footer />
