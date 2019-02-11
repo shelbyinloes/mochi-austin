@@ -12,14 +12,14 @@ const About = () => (
       <Col sm={6} id="aboutMochi">
         <div>
           <Fade left>
-        <h2>What is Mochi?</h2>
-        <p>You and I know Mochi Ice Cream as a rice ball with delicious premium ice cream on the 
-          inside, but the word mochi actually has a larger meaning in Japan. In Mochi Ice Cream, 
-          the word “mochi” mostly refers to the ball of sweet rice dough 
-          that encapsulates that delicious ice cream. It’s known for being a symbol of good 
-          fortune and happy marriages.</p>
+            <h2>What is Mochi?</h2>
+              <p>You and I know Mochi Ice Cream as a rice ball with delicious premium ice cream on the 
+              inside, but the word mochi actually has a larger meaning in Japan. In Mochi Ice Cream, 
+              the word “mochi” mostly refers to the ball of sweet rice dough 
+              that encapsulates that delicious ice cream. It’s known for being a symbol of good 
+              fortune and happy marriages.</p>
           </Fade>
-          </div>
+        </div>
       </Col>
       <Col sm={5} id="aboutImg">
         <Zoom>

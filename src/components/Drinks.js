@@ -10,7 +10,7 @@ const Drinks = () => (
   <Container>
     <Row>
       <Col sm={6} id="aboutMochi">
-      <div>
+        <div>
           <Fade left>
             <h2>But wait, there's more!</h2>
                 <p>In addition to serving you the best quality mochi, we also 
@@ -18,7 +18,7 @@ const Drinks = () => (
                     variety of traditional Japanese teas, bubble teas, 
                     hot chocolate, and other assorted beverages. </p>
           </Fade>
-          </div>
+        </div>
       </Col>
       <Col sm={6} id="drinksImg">
         <Zoom>
