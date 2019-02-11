@@ -7,7 +7,7 @@ import Fade from 'react-reveal/Fade';
 
 
 const Ingredients = () => (
-  <Container fluid>
+  <Container>
     <Row>
       <Col sm={5} id="ingredientImg">
         <Zoom>

@@ -7,7 +7,7 @@ import Fade from 'react-reveal/Fade';
 
 
 const About = () => (
-  <Container fluid>
+  <Container>
     <Row>
       <Col sm={6} id="aboutMochi">
         <div>
@@ -21,7 +21,7 @@ const About = () => (
           </Fade>
           </div>
       </Col>
-      <Col sm={5} id="aboutMochiImg">
+      <Col sm={5} id="aboutImg">
         <Zoom>
           <img src={singleMochi} alt={"Mochi Austin Logo"}/>
         </Zoom>

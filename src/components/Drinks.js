@@ -7,7 +7,7 @@ import Fade from 'react-reveal/Fade';
 
 
 const Drinks = () => (
-  <Container fluid>
+  <Container>
     <Row>
       <Col sm={6} id="aboutMochi">
       <div>
