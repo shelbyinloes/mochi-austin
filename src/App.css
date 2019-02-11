@@ -119,3 +119,14 @@ div.col-xs-1,div.col-xs-10,div.col-xs-11,div.col-xs-12,div.col-xs-2,div.col-xs-3
     padding-bottom: 30px;
   }
 
+  #ingredientImg, #drinksImg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #ingredientImg > img, #drinksImg > img {
+    height: 300px;
+    padding: 20px;
+  }
+
