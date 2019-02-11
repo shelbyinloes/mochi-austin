@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import milk from '../images/milk.jpeg';
+import fruit from '../images/fruit.jpg';
 import './../App.css';
 import Zoom from 'react-reveal/Zoom';
 import Fade from 'react-reveal/Fade';
@@ -11,18 +11,19 @@ const Ingredients = () => (
     <Row>
       <Col sm={5} id="ingredientImg">
         <Zoom>
-          <img src={milk} alt={"Milk and fruit"}/>
+          <img src={fruit} alt={"Fruit"}/>
         </Zoom>
       </Col>
       <Col sm={6} id="aboutMochi">
         <div>
           <Fade>
             <h2>Ingredients you can trust</h2>
-            <p>You and I know Mochi Ice Cream as a rice ball with delicious premium ice cream on the 
-            inside, but the word mochi actually has a larger meaning in Japan. In Mochi Ice Cream, 
-            the word “mochi” mostly refers to the ball of sweet rice dough 
-            that encapsulates that delicious ice cream. It’s known for being a symbol of good 
-            fortune and happy marriages.</p>
+            <p>Everything you see on our menu is made in house, from 
+              scratch. We try our best to source our ingredients locally 
+              to support local farms in your area. All of our fruits are 
+              organic and the milk is from grass-fed cows. Customers are 
+              our number one priority, and we strive to show you that every 
+              day.</p>
         </Fade>
         </div>
       </Col>
