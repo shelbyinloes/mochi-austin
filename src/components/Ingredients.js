@@ -16,7 +16,7 @@ const Ingredients = () => (
       </Col>
       <Col sm={6} id="aboutMochi">
         <div>
-          <Fade>
+          <Fade right>
             <h2>Ingredients you can trust</h2>
             <p>Everything you see on our menu is made in house, from 
               scratch. We try our best to source our ingredients locally 

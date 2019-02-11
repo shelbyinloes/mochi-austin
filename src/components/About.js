@@ -11,7 +11,7 @@ const About = () => (
     <Row>
       <Col sm={6} id="aboutMochi">
         <div>
-          <Fade>
+          <Fade left>
         <h2>What is Mochi?</h2>
         <p>You and I know Mochi Ice Cream as a rice ball with delicious premium ice cream on the 
           inside, but the word mochi actually has a larger meaning in Japan. In Mochi Ice Cream, 

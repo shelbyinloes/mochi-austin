@@ -11,11 +11,12 @@ const Drinks = () => (
     <Row>
       <Col sm={6} id="aboutMochi">
       <div>
-          <Fade>
+          <Fade left>
             <h2>But wait, there's more!</h2>
-                <p>In addition to serving you the best quality mochi, we know it isn't 
-                    for everyone. We also have a variety of traditional Japanese teas, 
-                    bubble teas, hot chocolate, and other assorted beverages. </p>
+                <p>In addition to serving you the best quality mochi, we also 
+                    have some of the best drinks in town too. We have a 
+                    variety of traditional Japanese teas, bubble teas, 
+                    hot chocolate, and other assorted beverages. </p>
           </Fade>
           </div>
       </Col>
