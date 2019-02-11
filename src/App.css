@@ -106,3 +106,16 @@ div.col-xs-1,div.col-xs-10,div.col-xs-11,div.col-xs-12,div.col-xs-2,div.col-xs-3
     text-shadow: 1px 1px 2px #8e8e8e;
   }
 
+  #aboutMochi {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 2.5em;
+    padding: 40px;
+  }
+
+  #aboutMochi > div > h2 {
+    color: #fc6969;
+    padding-bottom: 30px;
+  }
+
