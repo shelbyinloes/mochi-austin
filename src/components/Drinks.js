@@ -9,7 +9,7 @@ import Fade from 'react-reveal/Fade';
 const Drinks = () => (
   <Container>
     <Row>
-      <Col sm={6} id="aboutMochi">
+      <Col lg={6} md={12} id="aboutMochi">
         <div>
           <Fade left>
             <h2>Thirsty?</h2>
@@ -20,7 +20,7 @@ const Drinks = () => (
           </Fade>
         </div>
       </Col>
-      <Col sm={6} id="drinksImg">
+      <Col lg={6} md={12} id="drinksImg">
         <Zoom>
           <img src={tea} alt={"Machta tea"}/>
         </Zoom>

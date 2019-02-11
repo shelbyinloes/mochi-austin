@@ -9,12 +9,12 @@ import Fade from 'react-reveal/Fade';
 const Ingredients = () => (
   <Container>
     <Row>
-      <Col sm={5} id="ingredientImg">
+      <Col lg={6} md={12} id="ingredientImg">
         <Zoom>
           <img src={fruit} alt={"Fruit"}/>
         </Zoom>
       </Col>
-      <Col sm={6} id="aboutMochi">
+      <Col lg={6} md={12} sm={'hidden'} id="aboutMochi">
         <div>
           <Fade right>
             <h2>Ingredients you can trust</h2>
